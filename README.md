@@ -9,4 +9,4 @@
 4. This project was extended to parse different input file formats (json, xml, csv). Strategy pattern was used to decide the input file format and therefore which method was going to be used to parse the file and the type of output file
 
 # Class Diagram
-![alt text](https://github.com/gopinathsjsu/individual-project-cmpe202-03-pragnesh16/blob/main/images/Class%20Diagram1.png)
+![alt text](https://https://github.com/pragneshbagary/Credit-Card-Validator/blob/main/images/Class%20Diagram1.png)
