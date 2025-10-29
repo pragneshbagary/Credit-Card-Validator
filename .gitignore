@@ -1,0 +1,51 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# === Logs and databases ===
+*.log
+*.sql
+*.sqlite
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+out/
+*.iws
+*.ipr
+
+# === VS Code (if used) ===
+.vscode/
+
+# === Maven / Gradle ===
+target/
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# === Eclipse (if used previously) ===
+.classpath
+.project
+.settings/
+
+# === Mac / Windows / Linux system files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Environment / secrets ===
+*.env
+*.key
+*.pem
+*.p12
+
+# === Backup / temp ===
+*.bak
+*.tmp
+*.swp
